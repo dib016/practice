@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.yohaku{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    /* margin: 20%;
+    padding: 10%; */
+/*余白を調整して真ん中にしたい*/
+}
+
+h1{
+    color: red;
+}
+
+.content {
+    text-align: center;
+}
+
